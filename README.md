@@ -1,2 +1,1 @@
-# cursos_quiz_vocacional
-Descubra o seu curso
+# cursos_vocacional
